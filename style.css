@@ -1,0 +1,102 @@
+/* TODO: design your profile with CSS */
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: rgb(240,240,240);
+}
+
+h1, h2 {
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  color: #1E5233;
+}
+
+h2 {
+  color: #C8353C;
+}
+
+a {
+  font-weight:bold;
+  text-decoration: none;
+  color:#011638;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+.card-white {
+  background-color: white;
+  padding: 20px;
+  width: 80%;
+  margin: 20px auto;
+  text-align: center;
+  border-radius: 4px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.img-circle {
+  width: 100px;
+  border-radius: 50%;
+}
+
+.btn-blue {
+  font-weight: bold;
+  text-decoration: none;
+  color: #fff;
+  background-color: #011638;
+  padding: 10px;
+  border-radius: 4px;
+  display: block;
+  width: 180px;
+  margin: 0 auto;
+}
+
+.btn-blue:hover {
+  opacity: 0.7;
+}
+
+.list-inline {
+  list-style: none;
+  padding: 0;
+}
+
+.list-inline li {
+  display: inline-block;
+}
+
+.social-icon {
+  margin: 5px;
+  font-size: 22px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
